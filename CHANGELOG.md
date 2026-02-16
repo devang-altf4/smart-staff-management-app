@@ -1,1 +1,2 @@
 - feat(backend): setup express server and database connection
+- feat(backend): create User and Shop models
