@@ -1,2 +1,3 @@
 - feat(backend): setup express server and database connection
 - feat(backend): create User and Shop models
+- feat(backend): implement JWT auth middleware
