@@ -2,3 +2,4 @@
 - feat(backend): create User and Shop models
 - feat(backend): implement JWT auth middleware
 - feat(backend): add routes for login and register
+- feat(frontend): setup React Navigation
