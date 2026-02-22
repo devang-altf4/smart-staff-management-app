@@ -5,3 +5,4 @@
 - feat(frontend): setup React Navigation
 - feat(frontend): build Login and Register screens
 - feat(frontend): create base Owner Dashboard layout
+- feat(frontend): create base Employee Dashboard layout
