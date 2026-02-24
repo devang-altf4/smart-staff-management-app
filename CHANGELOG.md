@@ -7,3 +7,4 @@
 - feat(frontend): create base Owner Dashboard layout
 - feat(frontend): create base Employee Dashboard layout
 - feat(frontend): create Manager Dashboard layout
+- feat(backend): implement staff management API
