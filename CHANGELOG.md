@@ -9,3 +9,4 @@
 - feat(frontend): create Manager Dashboard layout
 - feat(backend): implement staff management API
 - feat(frontend): build Add Staff screen
+- feat(frontend): build Staff List and Detail screens
