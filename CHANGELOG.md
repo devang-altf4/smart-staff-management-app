@@ -12,3 +12,4 @@
 - feat(frontend): build Staff List and Detail screens
 - feat(backend): create Attendance model
 - feat(backend): add attendance tracking routes
+- feat(frontend): implement daily attendance screen
