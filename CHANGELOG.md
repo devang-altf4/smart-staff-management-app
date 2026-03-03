@@ -14,3 +14,4 @@
 - feat(backend): add attendance tracking routes
 - feat(frontend): implement daily attendance screen
 - feat(frontend): add bulk attendance save functionality
+- feat(backend): create SalaryPayment model
