@@ -15,3 +15,4 @@
 - feat(frontend): implement daily attendance screen
 - feat(frontend): add bulk attendance save functionality
 - feat(backend): create SalaryPayment model
+- feat(backend): automate salary calculation based on attendance
