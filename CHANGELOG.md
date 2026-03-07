@@ -18,3 +18,4 @@
 - feat(backend): automate salary calculation based on attendance
 - feat(backend): add salary payment recording routes
 - feat(frontend): show calculated payable summary on Employee dashboard
+- feat(frontend): build Salary History List screen
