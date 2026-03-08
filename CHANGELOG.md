@@ -19,3 +19,4 @@
 - feat(backend): add salary payment recording routes
 - feat(frontend): show calculated payable summary on Employee dashboard
 - feat(frontend): build Salary History List screen
+- feat(frontend): build Record Payment screen with auto-filled amounts
