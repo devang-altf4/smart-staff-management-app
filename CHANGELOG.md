@@ -23,3 +23,4 @@
 - feat(frontend): add My Attendance and My Salary History
 - feat(frontend): add attendance history modal for individual staff
 - feat(frontend): implement date-based navigation in Attendance screen
+- chore: clean up deprecated request-based salary components
