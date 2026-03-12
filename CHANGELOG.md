@@ -24,3 +24,4 @@
 - feat(frontend): add attendance history modal for individual staff
 - feat(frontend): implement date-based navigation in Attendance screen
 - chore: clean up deprecated request-based salary components
+- style: improve dashboard layouts and card designs
