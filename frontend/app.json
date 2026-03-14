@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "SmartStaffApp",
+    "slug": "smart-staff-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#4A90D9"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#4A90D9"
+      }
+    }
+  }
+}
